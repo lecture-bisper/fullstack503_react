@@ -1,0 +1,1 @@
+console.log("외부 javascript 파일을 html 파일에서 로딩하여 사용!!");
